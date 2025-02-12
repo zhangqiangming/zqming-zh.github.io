@@ -34,7 +34,7 @@ redirect_from:
 # 🎓 教育经历
 - *2022.09 - 2026.6*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 计算机科学与技术学院, 计算机科学与技术专业, 推免直博 
 - *2019.09 - 2022.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 计算机科学与技术学院, 计算机技术专业, 硕士
- - *2014.09 - 2018.06*, <a href="https://www.yangtzeu.edu.cn/"><img class="svg" src="/images/cjdx_logo.jpeg" width="20pt"></a> 长江大学 计算机科学与技术学院, 计算机科学与技术专业, 本科
+ - *2014.09 - 2018.06*, <a href="https://www.yangtzeu.edu.cn/"><img class="svg" src="/images/cjdx_logo.png" width="20pt"></a> 长江大学 计算机科学与技术学院, 计算机科学与技术专业, 本科
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文专利
