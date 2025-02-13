@@ -81,6 +81,9 @@ redirect_from:
 </div>
 
 
+- `Zhangqiang Ming`, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "Gradient Compression Techniques in Distributed DNNs Training Systems: A Survey and Outlooks." arXiv preprint arXiv:2310.14484 (2023).
+[[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]]() [[下载]]()
+
 
 - Yong Yang, Chengrui Gao, `Zhangqiang Ming`, Jixiang Guo, Edou Leopold, Junlong Cheng, Jie Zuo, and Min Zhu. "LatLRR-CNN: An infrared and visible image fusion method combining latent low-rank representation and CNN." Multimedia Tools and Applications 82, no. 23 (2023): 36303-36323. (JCR:Q1; IF:3.748)  
 [[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]]() [[下载]]()
