@@ -43,7 +43,7 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPDC 2024</div><img src='images/papers/hpdc2024.png' alt="sym" width="100%" height=400px></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPDC 2024</div><img src='images/papers/hpdc2024.png' alt="sym" width=500px height=400px></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Zhangqiang Ming`, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, Chenxuan Yao, and Dan Feng. "ADTopk: All-Dimension Top-k Compression for High-Performance Data-Parallel DNN Training." In Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing, pp. 135-147. 2024. (CCF-B, 高性能顶会)  
@@ -52,7 +52,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPDC 2024</div><img src='images/papers/hpdc2024.png' alt="sym" width="100%" height=400px></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPDC 2024</div><img src='images/papers/hpdc2024.png' alt="sym" width=500px height=400px></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Zhangqiang Ming`, Min Zhu, Xiangkun Wang, Jiamin Zhu, Junlong Cheng, Chengrui Gao, Yong Yang, and Xiaoyong Wei. "Deep learning-based person re-identification methods: A survey and outlook of recent works." Image and Vision Computing 119 (2022): 104394. (CCF-C; IF:3.291)  
@@ -61,7 +61,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPDC 2024</div><img src='images/papers/hpdc2024.png' alt="sym" width="100%" height=400px></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPDC 2024</div><img src='images/papers/hpdc2024.png' alt="sym" width=500px height=400px></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Zhangqiang Ming`, Min Zhu, Jianrong Yan, Yong Yang, and Jiamin Zhu. "A survey on generative adversarial network based person re-identification method." Journal of Computer-Aided Design & Computer Graphics 34, no. 2 (2022): 163-179. (JCR:Q4; IF:0.536)  
@@ -71,7 +71,7 @@ redirect_from:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPDC 2024</div><img src='images/papers/hpdc2024.png' alt="sym" width="100%" height=400px></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPDC 2024</div><img src='images/papers/hpdc2024.png' alt="sym" width=500px height=400px></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Zhangqiang Ming`, Yong Yang, Xiaoyong Wei, Jianrong Yan, Xiangkun Wang, Fengjie Wang, and Min Zhu. "Global-local dynamic feature alignment network for person re-identification." arXiv preprint arXiv:2109.05759 (2021). (JCR:Q4; IF:0.536)  
