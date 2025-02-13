@@ -111,14 +111,15 @@ redirect_from:
 
 ### 发明专利
 ---
-- 康宜华, `明章强`. 一种基于铁磁性板的缺陷检测方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
-- 康宜华, `明章强`. 基于电磁原理的倒角测量装置.[[网页]](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201921137073.X)
-- 伍剑波, `明章强`. 一种钢管脉冲磁化漏磁探伤装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105334260A&v=) 
-- 伍剑波, `明章强`, 王杰, 方辉. 一种基于动生涡电流的金属管件电磁无损检测装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105510433A&v=) 
-- 刁燕, `明章强`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=) 
-- 刁燕, `明章强`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=) 
-- 刁燕, 陈敏, 王荣彪, `明章强`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=) 
-- 刁燕, 陈敏, 王荣彪, `明章强`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=) 
+- 胡燏翀, `明章强`, 周文翔, 郑欣觉, 罗致远, 姚晨炫, 冯丹. 一种面向高性能数据并行DNN训练的全维度Top-k稀疏化压缩方法和系统. [[网页]]() 
+- 胡燏翀, `明章强`, 周文翔, 郑欣觉, 罗致远, 冯丹. 一种用于提升分布式训练系统中稀疏通信的弹性梯度合并方法和系统. [[网页]]()
+- 朱敏, `明章强`, 魏骁勇, 李龙兴, 杨勇, 李长林. 一种基于全局-局部特征动态对齐的行人重识别方法. [[网页]]()
+- 朱敏, `明章强`, 闫建荣, 张万利, 赵志龙. 一种基于深度学习的多因素用电负荷预测方法.[[网页]]()
+- 朱敏, `明章强`, 杨勇, 程俊龙, 高承睿, 李龙兴, 李希垚. 一种基于深度神经网络的开集目标检测与识别方法. [[网页]]() 
+- 朱敏, 杨勇, `明章强`, 高承睿, 程俊龙, 李长林. 结合潜在低秩表示和卷积神经网络的红外和可见光图像融合方法. [[网页]]() 
+- 朱敏, 闫建荣, `明章强`, 王心翌. 一种基于深度学习的RBP结合位点预测算法. [[网页]]() 
+- 朱敏, 高承睿, 程俊龙, 杨勇, `明章强`. 一种基于全分辨率表示网络的医学图像分割方法. [[网页]]() 
+
 
 
 
