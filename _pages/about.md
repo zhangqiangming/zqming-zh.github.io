@@ -43,7 +43,7 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPDC 2024</div><img src='images/papers/hpdc2024.png' alt="sym" width=400px height=350px></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPDC 2024</div><img src='images/papers/hpdc2024.png' alt="sym" width=400px></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Zhangqiang Ming`, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, Chenxuan Yao, and Dan Feng. "ADTopk: All-Dimension Top-k Compression for High-Performance Data-Parallel DNN Training." In Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing, pp. 135-147. 2024. (CCF-B, 高性能顶会)  
