@@ -54,7 +54,7 @@ redirect_from:
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPDC 2024</div>
-<img src='images/papers/reid.pngg' alt="sym" width="110%"></div></div>
+<img src='images/papers/reid.png' alt="sym" width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Zhangqiang Ming`, Min Zhu, Xiangkun Wang, Jiamin Zhu, Junlong Cheng, Chengrui Gao, Yong Yang, and Xiaoyong Wei. "Deep learning-based person re-identification methods: A survey and outlook of recent works." Image and Vision Computing 119 (2022): 104394. (CCF-C; IF:3.291)  
