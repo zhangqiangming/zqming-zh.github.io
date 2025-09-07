@@ -19,7 +19,7 @@ redirect_from:
 
 
 我将于2026年5月博士毕业于湖北武汉的华中科技大学, 计算机科学与技术学院, 信息存储及应用实验室, 冯丹教授团队。我的博士导师是胡燏翀教授, 专业为计算机体系结构。硕士毕业于四川成都的四川大学, 计算机学院, 专业为计算机技术。包括合著，我已经发表20+篇学术论文。
- <a href='https://scholar.google.com/citations?user=pGBngNMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
+ <!-- <a href='https://scholar.google.com/citations?user=pGBngNMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a> -->
 
 
 <!-- 💻 -->
@@ -51,13 +51,13 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 教育经历
-- *2022.09 - 2026.06*, &nbsp;&nbsp;  <a href="https://www.hust.edu.cn/"><img class="svg" src="https://zhangqiangming.github.io/zqming-zh.github.io/images/HUST_logo.svg" width="23pt"></a>华中科技大学&nbsp; &nbsp; &nbsp; 计算机科学与技术学院 &nbsp; &nbsp;  计算机科学与技术专业, &nbsp; &nbsp; 博士研究生
+- *2022.09 - 2026.06*, &nbsp;  <a href="https://www.hust.edu.cn/"><img class="svg" src="https://zhangqiangming.github.io/zqming-zh.github.io/images/HUST_logo.svg" width="23pt"></a>华中科技大学&nbsp; &nbsp;计算机科学与技术专业&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士研究生
 
 
-- *2019.09 - 2022.06*, &nbsp;&nbsp;  <a href="https://www.scu.edu.cn/"><img class="svg" src="https://zhangqiangming.github.io/zqming-zh.github.io/images/SCU_logo.svg" width="20pt"></a> 四川大学&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;  计算机学院 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  计算机技术专业 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  硕士研究生
+- *2019.09 - 2022.06*, &nbsp;  <a href="https://www.scu.edu.cn/"><img class="svg" src="https://zhangqiangming.github.io/zqming-zh.github.io/images/SCU_logo.svg" width="20pt"></a> 四川大学&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp;&nbsp;  计算机技术专业 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  硕士研究生
 
 
-<!-- - *2014.09 - 2018.06*, &nbsp;&nbsp;  <a href="https://www.yangtzeu.edu.cn/"><img class="svg" src="https://zhangqiangming.github.io/zqming-zh.github.io/images/cjdx_logo.png" width="20pt"></a> 长江大学&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 计算机科学与技术学院 &nbsp; &nbsp;  计算机科学与技术专业 &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  本科生 -->
+<!-- - *2014.09 - 2018.06*, &nbsp;  <a href="https://www.yangtzeu.edu.cn/"><img class="svg" src="https://zhangqiangming.github.io/zqming-zh.github.io/images/cjdx_logo.png" width="20pt"></a> 长江大学&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 计算机科学与技术学院 &nbsp; &nbsp;  计算机科学与技术专业 &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  本科生 -->
 
 
 
@@ -67,107 +67,38 @@ redirect_from:
 
 ### 学术论文
 <!-- --- -->
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<!-- <div class="badge">HPDC 2024</div> -->
-<!-- <img src='images/papers/hpdc2024.png' alt="sym" width="110%">-->
-</div>
-</div> 
-<div class='paper-box-text' markdown="1">
-
 -	`Zhangqiang Ming`, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "ADTopk: All-Dimension Top-k Compression for High-Performance Data-Parallel DNN Training." 2024. In Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing. (HPDC'24, Acceptance Rate=17.1%, 高性能顶会, CSRanking) [[网页]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
-</div>
-</div>
 
 
-
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<!-- <div class="badge">HPDC 2025</div> -->
-<!-- <img src='images/papers/hpdc2024.png' alt="sym" width="110%">-->
-</div>
-</div> 
-<div class='paper-box-text' markdown="1">
 
 -	`Zhangqiang Ming`, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SAFusion: Efficient Tensor Fusion with Sparsification Ahead for High-Performance Distributed DNN Training." 2025. In Proceedings of the 34th ACM International Symposium on High-Performance Parallel and Distributed Computing. (HPDC'25, Acceptance Rate=18.7%, 高性能顶会, CSRanking) [[网页]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
-</div>
-</div>
 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div>
-<!-- <div class="badge">ICDE 2026</div> -->
-<!-- <img src='images/papers/hpdc2024.png' alt="sym" width="110%">--></div></div> 
-<div class='paper-box-text' markdown="1">
-
--	`Zhangqiang Ming`, Rui, Wang, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SSFusion: Tensor Fusion with Selective Sparsification for Efficient Distributed DNN Training." 2026. In Proceedings of the 42st IEEE International Conference on Data Engineering (ICDE'26, CCF-A, CSRanking) [[网页]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
-</div>
-</div>
+-	`Zhangqiang Ming`, Rui, Wang, Yuchong Hu, Yuanhao Shu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SSFusion: Tensor Fusion with Selective Sparsification for Efficient Distributed DNN Training." 2026. In Proceedings of the 42st IEEE International Conference on Data Engineering (ICDE'26, CCF-A, CSRanking) [[网页]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
 
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div>
-<!-- <div class="badge">ASPLOS 2026</div> -->
-<!-- <img src='images/papers/hpdc2024.png' alt="sym" width="110%">--></div></div> 
-<div class='paper-box-text' markdown="1">
 
 -	`Zhangqiang Ming`, Yuchong Hu, Patrick P. C. Lee, Xinjue Zheng, Wenxiang Zhou, and Dan Feng. "AsymCheck: Asymmetric Partitioned Checkpointing for Efficient Large Language Model Training." 2026. In Proceedings of the International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'26, CCF-A, CSRanking) [[网页]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
-</div>
-</div>
 
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div>
-<!-- <div class="badge">EuroPar 2025</div> -->
-<!-- <img src='images/papers/hpdc2024.png' alt="sym" width="110%">--></div></div> 
-<div class='paper-box-text' markdown="1">
 
 -	Xinjue Zheng, `Zhangqiang Ming`, Yuchong Hu, Wenxiang Zhou, and Dan Feng. "Saving Memory via Residual Reduction for DNN Training with Compressed Communication." 2025. In Proceedings of the European Conference on Parallel Processing (EuroPar'26, CCF-B, CSRanking) [[网页]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
-</div>
-</div>
 
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div>
-<!-- <div class="badge">IVC 2026</div> -->
-<!-- <img src='images/papers/reid.png' alt="sym" width="110%"> -->
-</div>
-</div>
-<div class='paper-box-text' markdown="1">
 
 -	`Zhangqiang Ming`, Min Zhu, Xiangkun Wang, Jiamin Zhu, Junlong Cheng, Chengrui Gao, Yong Yang, and Xiaoyong Wei. "Deep learning-based person re-identification methods: A survey and outlook of recent works." Image and Vision Computing 119 (2022): 104394. (CCF-C; IF:3.291) [[网页]](https://www.sciencedirect.com/science/article/pii/S0262885622000233) [[预览]](https://www.sciencedirect.com/science/article/pii/S0262885622000233) [[下载]](https://www.sciencedirect.com/science/article/pii/S0262885622000233)
-</div>
-</div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div>
-<!-- <div class="badge">HPDC 2024</div>
-<img src='images/papers/gan.png' alt="sym" width="110%"> -->
-</div></div>
-<div class='paper-box-text' markdown="1">
 
 -	`Zhangqiang Ming`, Min Zhu, Jianrong Yan, Yong Yang, and Jiamin Zhu. "A survey on generative adversarial network based person re-identification method." Journal of Computer-Aided Design & Computer Graphics 34, no. 2 (2022): 163-179. (JCR:Q4; IF:0.536) 
 [[网页]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[预览]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[下载]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852)
-</div>
-</div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div>
-<!-- <div class="badge">HPDC 2024</div>
-<img src='images/papers/glnet2021.png' alt="sym" width="110%" > -->
-</div></div>
-<div class='paper-box-text' markdown="1">
 
 -	`Zhangqiang Ming`, Yong Yang, Xiaoyong Wei, Jianrong Yan, Xiangkun Wang, Fengjie Wang, and Min Zhu. "Global-local dynamic feature alignment network for person re-identification." arXiv preprint arXiv:2109.05759 (2021). [[网页]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[预览]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[下载]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852)
-</div>
-</div>
 
 
 - `Zhangqiang Ming`, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "Gradient Compression Techniques in Distributed DNNs Training Systems: A Survey and Outlooks." arXiv preprint arXiv:2310.14484 (2023).
