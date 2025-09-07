@@ -17,55 +17,82 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
 我将于2026年5月博士毕业于湖北武汉的华中科技大学, 计算机科学与技术学院, 信息存储及应用实验室, 冯丹教授团队。我的博士导师是胡燏翀教授, 专业为计算机体系结构。硕士毕业于四川成都的四川大学, 计算机学院, 专业为计算机技术。包括合著，我已经发表20+篇学术论文。
- <!-- <a href='https://scholar.google.com/citations?user=pGBngNMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
+ <a href='https://scholar.google.com/citations?user=pGBngNMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
 
 
-我的研究领域包括：
+### 我的研究领域包括：
 - 计算机系统结构
-- 大规模分布式训练/推理
-- 高性能分布式计算
+- 大规模高性能分布式训练/推理
+- Storage4AI
+- System4AI
 - 大模型存储
 - 计算机视觉
 - 行人重识别 
 
 
 
+<style>
+.container {
+  position: relative;
+  height: 200px;   /* 父容器高度 */
+  border: 1px solid #ccc;
+}
+.container a {
+  position: absolute;
+  bottom: 0;       /* 紧贴底部 */
+  left: 50%;
+  transform: translateX(-50%); /* 居中 */
+}
+</style>
+
 <span class='anchor' id='-xl'></span>
 
 # 🎓 教育经历
-- *2022.09 - 2026.6*, <a href="https://www.hust.edu.cn/"><img class="svg" src="https://zhangqiangming.github.io/zqming-zh.github.io/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 计算机科学与技术学院, 计算机科学与技术专业, 博士 
-- *2019.09 - 2022.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="https://zhangqiangming.github.io/zqming-zh.github.io/images/SCU_logo.svg" width="20pt"></a> 四川大学 计算机科学与技术学院, 计算机技术专业, 硕士
- - *2014.09 - 2018.06*, <a href="https://www.yangtzeu.edu.cn/"><img class="svg" src="https://zhangqiangming.github.io/zqming-zh.github.io/images/cjdx_logo.png" width="20pt"></a> 长江大学 计算机科学与技术学院, 计算机科学与技术专业, 本科
+- *2022.09 - 2026.06*, &nbsp; <a href="https://www.hust.edu.cn/"><img class="svg" src="https://zhangqiangming.github.io/zqming-zh.github.io/images/HUST_logo.svg" width="23pt"></a> 华中科技大学&nbsp; &nbsp; &nbsp; 计算机科学与技术学院 &nbsp; &nbsp;  计算机科学与技术专业, &nbsp; &nbsp; 博士研究生
+
+
+- *2019.09 - 2022.06*, &nbsp; &nbsp; &nbsp;  <a href="https://www.scu.edu.cn/"><img class="svg" src="https://zhangqiangming.github.io/zqming-zh.github.io/images/SCU_logo.svg" width="20pt"></a> 四川大学&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   计算机学院 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  计算机技术专业 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  硕士研究生
+
+
+- *2014.09 - 2018.06*, &nbsp; &nbsp; &nbsp;  <a href="https://www.yangtzeu.edu.cn/"><img class="svg" src="https://zhangqiangming.github.io/zqming-zh.github.io/images/cjdx_logo.png" width="20pt"></a> 长江大学&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 计算机科学与技术学院 &nbsp; &nbsp;  计算机科学与技术专业 &nbsp; &nbsp; 本科生
 <span class='anchor' id='-lwzl'></span>
+
+
 
 # 📝 论文专利
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPDC 2024</div>
-<img src='images/papers/hpdc2024.png' alt="sym" width="110%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div>
+<!-- <div class="badge">HPDC 2024</div> -->
+<!-- <img src='images/papers/hpdc2024.png' alt="sym" width="110%">--></div></div> 
 <div class='paper-box-text' markdown="1">
 
--	`Zhangqiang Ming`, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, Chenxuan Yao, and Dan Feng. "ADTopk: All-Dimension Top-k Compression for High-Performance Data-Parallel DNN Training." HPDC 2024. (CCF-B, 高性能顶会)  
-[[网页]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
-
+-	`Zhangqiang Ming`, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, Chenxuan Yao, and Dan Feng. "ADTopk: All-Dimension Top-k Compression for High-Performance Data-Parallel DNN Training." HPDC 2024. (CCF-B, 高性能顶会, CSRanking) [[网页]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPDC 2024</div>
-<img src='images/papers/reid.png' alt="sym" width="110%"></div></div>
-<div class='paper-box-text' markdown="1">
 
--	`Zhangqiang Ming`, Min Zhu, Xiangkun Wang, Jiamin Zhu, Junlong Cheng, Chengrui Gao, Yong Yang, and Xiaoyong Wei. "Deep learning-based person re-identification methods: A survey and outlook of recent works." Image and Vision Computing 119 (2022): 104394. (CCF-C; IF:3.291)  
-[[网页]](https://www.sciencedirect.com/science/article/pii/S0262885622000233) [[预览]](https://www.sciencedirect.com/science/article/pii/S0262885622000233) [[下载]](https://www.sciencedirect.com/science/article/pii/S0262885622000233)
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div>
-<div class="badge">HPDC 2024</div>
-<img src='images/papers/gan.png' alt="sym" width="110%"></div></div>
+<!-- <div class="badge">HPDC 2024</div> -->
+<!-- <img src='images/papers/reid.png' alt="sym" width="110%"> -->
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+-	`Zhangqiang Ming`, Min Zhu, Xiangkun Wang, Jiamin Zhu, Junlong Cheng, Chengrui Gao, Yong Yang, and Xiaoyong Wei. "Deep learning-based person re-identification methods: A survey and outlook of recent works." Image and Vision Computing 119 (2022): 104394. (CCF-C; IF:3.291) [[网页]](https://www.sciencedirect.com/science/article/pii/S0262885622000233) [[预览]](https://www.sciencedirect.com/science/article/pii/S0262885622000233) [[下载]](https://www.sciencedirect.com/science/article/pii/S0262885622000233)
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div>
+<!-- <div class="badge">HPDC 2024</div>
+<img src='images/papers/gan.png' alt="sym" width="110%"> -->
+</div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Zhangqiang Ming`, Min Zhu, Jianrong Yan, Yong Yang, and Jiamin Zhu. "A survey on generative adversarial network based person re-identification method." Journal of Computer-Aided Design & Computer Graphics 34, no. 2 (2022): 163-179. (JCR:Q4; IF:0.536)  
@@ -76,12 +103,12 @@ redirect_from:
 
 
 <div class='paper-box'><div class='paper-box-image'><div>
-<div class="badge">HPDC 2024</div>
-<img src='images/papers/glnet2021.png' alt="sym" width="110%" ></div></div>
+<!-- <div class="badge">HPDC 2024</div>
+<img src='images/papers/glnet2021.png' alt="sym" width="110%" > -->
+</div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Zhangqiang Ming`, Yong Yang, Xiaoyong Wei, Jianrong Yan, Xiangkun Wang, Fengjie Wang, and Min Zhu. "Global-local dynamic feature alignment network for person re-identification." arXiv preprint arXiv:2109.05759 (2021). (JCR:Q4; IF:0.536)  
-[[网页]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[预览]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[下载]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852)
+-	`Zhangqiang Ming`, Yong Yang, Xiaoyong Wei, Jianrong Yan, Xiangkun Wang, Fengjie Wang, and Min Zhu. "Global-local dynamic feature alignment network for person re-identification." arXiv preprint arXiv:2109.05759 (2021). (JCR:Q4; IF:0.536) [[网页]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[预览]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[下载]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852)
 
 </div>
 </div>
@@ -94,8 +121,10 @@ redirect_from:
 - Yong Yang, Chengrui Gao, `Zhangqiang Ming`, Jixiang Guo, Edou Leopold, Junlong Cheng, Jie Zuo, and Min Zhu. "LatLRR-CNN: An infrared and visible image fusion method combining latent low-rank representation and CNN." Multimedia Tools and Applications 82, no. 23 (2023): 36303-36323. (JCR:Q1; IF:3.748)  
 [[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]]() [[下载]]()
 
+
 - Junlong Cheng,  Chengrui Gao, Changlin Li, `Zhangqiang Ming`, Yong Yang, Fengjie Wang, and Min Zhu. "F2RNET: A Full-Resolution Representation Network for Biomedical Image Segmentation." In 2022 IEEE International Conference on Image Processing (ICIP), pp. 2406-2410. IEEE, 2022.
 [[网页]](https://dx.doi.org/10.3390/app12199703) [[预览]]() [[下载]]()
+
 
 - Cheng, Junlong, Chengrui Gao, Hongchun Lu, `Zhangqiang Ming`, Yong Yang, and Min Zhu. "PL-Net: Progressive Learning Network for Medical Image Segmentation." arXiv preprint arXiv:2110.14484 (2021).
 [[网页]](https://dx.doi.org/10.3390/w14172736) [[预览]]() [[下载]]()
