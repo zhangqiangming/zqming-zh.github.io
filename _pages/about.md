@@ -66,51 +66,51 @@ redirect_from:
 
 ### 学术论文
 <!-- --- -->
--	`Zhangqiang Ming`, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "ADTopk: All-Dimension Top-k Compression for High-Performance Data-Parallel DNN Training." 2024. In Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing. (HPDC'24, Acceptance Rate=17.1%, 高性能顶会, CSRanking) [[网页]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
+-	`Zhangqiang Ming`, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "ADTopk: All-Dimension Top-k Compression for High-Performance Data-Parallel DNN Training." 2024. In Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing. (HPDC'24, Acceptance Rate=17.1%, 高性能顶会, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
 
 
 
--	`Zhangqiang Ming`, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SAFusion: Efficient Tensor Fusion with Sparsification Ahead for High-Performance Distributed DNN Training." 2025. In Proceedings of the 34th ACM International Symposium on High-Performance Parallel and Distributed Computing. (HPDC'25, Acceptance Rate=18.7%, 高性能顶会, CSRanking) [[网页]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
+-	`Zhangqiang Ming`, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SAFusion: Efficient Tensor Fusion with Sparsification Ahead for High-Performance Distributed DNN Training." 2025. In Proceedings of the 34th ACM International Symposium on High-Performance Parallel and Distributed Computing. (HPDC'25, Acceptance Rate=18.7%, 高性能顶会, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
 
 
 
--	`Zhangqiang Ming`, Rui, Wang, Yuchong Hu, Yuanhao Shu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SSFusion: Tensor Fusion with Selective Sparsification for Efficient Distributed DNN Training." 2026. In Proceedings of the 42st IEEE International Conference on Data Engineering (ICDE'26, CCF-A, CSRanking) [[网页]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
+-	`Zhangqiang Ming`, Rui, Wang, Yuchong Hu, Yuanhao Shu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SSFusion: Tensor Fusion with Selective Sparsification for Efficient Distributed DNN Training." 2026. In Proceedings of the 42st IEEE International Conference on Data Engineering (ICDE'26, CCF-A, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
 
 
 
--	`Zhangqiang Ming`, Yuchong Hu, Patrick P. C. Lee, Xinjue Zheng, Wenxiang Zhou, and Dan Feng. "AsymCheck: Asymmetric Partitioned Checkpointing for Efficient Large Language Model Training." 2026. In Proceedings of the International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'26, CCF-A, CSRanking) [[网页]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
+-	`Zhangqiang Ming`, Yuchong Hu, Patrick P. C. Lee, Xinjue Zheng, Wenxiang Zhou, and Dan Feng. "AsymCheck: Asymmetric Partitioned Checkpointing for Efficient Large Language Model Training." 2026. In Proceedings of the International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'26, CCF-A, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
 
 
 
--	Xinjue Zheng, `Zhangqiang Ming`, Yuchong Hu, Wenxiang Zhou, and Dan Feng. "Saving Memory via Residual Reduction for DNN Training with Compressed Communication." 2025. In Proceedings of the European Conference on Parallel Processing (EuroPar'26, CCF-B, CSRanking) [[网页]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
+-	Xinjue Zheng, `Zhangqiang Ming`, Yuchong Hu, Wenxiang Zhou, and Dan Feng. "Saving Memory via Residual Reduction for DNN Training with Compressed Communication." 2025. In Proceedings of the European Conference on Parallel Processing (EuroPar'26, CCF-B, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
 
 
 
--	`Zhangqiang Ming`, Min Zhu, Xiangkun Wang, Jiamin Zhu, Junlong Cheng, Chengrui Gao, Yong Yang, and Xiaoyong Wei. "Deep learning-based person re-identification methods: A survey and outlook of recent works." Image and Vision Computing 119 (2022): 104394. (CCF-C; IF:3.291) [[网页]](https://www.sciencedirect.com/science/article/pii/S0262885622000233) [[预览]](https://www.sciencedirect.com/science/article/pii/S0262885622000233) [[下载]](https://www.sciencedirect.com/science/article/pii/S0262885622000233)
+-	`Zhangqiang Ming`, Min Zhu, Xiangkun Wang, Jiamin Zhu, Junlong Cheng, Chengrui Gao, Yong Yang, and Xiaoyong Wei. "Deep learning-based person re-identification methods: A survey and outlook of recent works." Image and Vision Computing 119 (2022): 104394. (CCF-C; IF:3.291) [[Code]](https://www.sciencedirect.com/science/article/pii/S0262885622000233) [[预览]](https://www.sciencedirect.com/science/article/pii/S0262885622000233) [[下载]](https://www.sciencedirect.com/science/article/pii/S0262885622000233)
 
 
 
 -	`Zhangqiang Ming`, Min Zhu, Jianrong Yan, Yong Yang, and Jiamin Zhu. "A survey on generative adversarial network based person re-identification method." Journal of Computer-Aided Design & Computer Graphics 34, no. 2 (2022): 163-179. (JCR:Q4; IF:0.536) 
-[[网页]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[预览]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[下载]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852)
+[[Code]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[预览]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[下载]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852)
 
 
 
--	`Zhangqiang Ming`, Yong Yang, Xiaoyong Wei, Jianrong Yan, Xiangkun Wang, Fengjie Wang, and Min Zhu. "Global-local dynamic feature alignment network for person re-identification." arXiv preprint arXiv:2109.05759 (2021). [[网页]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[预览]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[下载]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852)
+-	`Zhangqiang Ming`, Yong Yang, Xiaoyong Wei, Jianrong Yan, Xiangkun Wang, Fengjie Wang, and Min Zhu. "Global-local dynamic feature alignment network for person re-identification." arXiv preprint arXiv:2109.05759 (2021). [[Code]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[预览]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[下载]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852)
 
 
 - `Zhangqiang Ming`, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "Gradient Compression Techniques in Distributed DNNs Training Systems: A Survey and Outlooks." arXiv preprint arXiv:2310.14484 (2023).
-[[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]]() [[下载]]()
+[[Code]](https://dx.doi.org/10.3390/ma15207362) [[预览]]() [[下载]]()
 
 
-- Yong Yang, Chengrui Gao, `Zhangqiang Ming`, Jixiang Guo, Edou Leopold, Junlong Cheng, Jie Zuo, and Min Zhu. "LatLRR-CNN: An infrared and visible image fusion method combining latent low-rank representation and CNN." Multimedia Tools and Applications 82, no. 23 (2023): 36303-36323. (JCR:Q1; IF:3.748) [[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]]() [[下载]]()
+- Yong Yang, Chengrui Gao, `Zhangqiang Ming`, Jixiang Guo, Edou Leopold, Junlong Cheng, Jie Zuo, and Min Zhu. "LatLRR-CNN: An infrared and visible image fusion method combining latent low-rank representation and CNN." Multimedia Tools and Applications 82, no. 23 (2023): 36303-36323. (JCR:Q1; IF:3.748) [[Code]](https://dx.doi.org/10.3390/ma15207362) [[预览]]() [[下载]]()
 
 
 - Junlong Cheng,  Chengrui Gao, Changlin Li, `Zhangqiang Ming`, Yong Yang, Fengjie Wang, and Min Zhu. "F2RNET: A Full-Resolution Representation Network for Biomedical Image Segmentation." In 2022 IEEE International Conference on Image Processing (ICIP), pp. 2406-2410. IEEE, 2022.
-[[网页]](https://dx.doi.org/10.3390/app12199703) [[预览]]() [[下载]]()
+[[Code]](https://dx.doi.org/10.3390/app12199703) [[预览]]() [[下载]]()
 
 
 - Cheng, Junlong, Chengrui Gao, Hongchun Lu, `Zhangqiang Ming`, Yong Yang, and Min Zhu. "PL-Net: progressive learning network for medical image segmentation[J]." Frontiers in Bioengineering and Biotechnology, 2024, 12: 1414605. (2024).
-[[网页]](https://dx.doi.org/10.3390/w14172736) [[预览]]() [[下载]]()
+[[Code]](https://dx.doi.org/10.3390/w14172736) [[预览]]() [[下载]]()
 
 
 
@@ -120,13 +120,13 @@ redirect_from:
 ---
 
 - `明章强`，王荣彪，康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67. (核心期刊)  
-[[网页]](https://dx.doi.org/10.11973/wsjc202204000) [[预览]]() [[下载]]()  
+[[Code]](https://dx.doi.org/10.11973/wsjc202204000) [[预览]]() [[下载]]()  
 
 - 刘伯承, `明章强*`, 王荣彪, 叶文超, 康宜华. 基于TMR的轴承滚子微细裂纹漏磁检测方法. *仪表技术与传感器*. 2021(12): 111-114+118.  (通讯作者; 核心期刊)  
-[[网页]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021) [[预览]]() [[下载]]()  
+[[Code]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021) [[预览]]() [[下载]]()  
 
 - 汪圣涵, `明章强*`, 刘军, 陈文宇, 康宜华. 双机械手操作的轴承阵列漏磁检测方法与系统. *轴承*. 2021(01): 54-58+65. (通讯作者; 核心期刊)  
-[[网页]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.01.011) [[预览]]() [[下载]]()  
+[[Code]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.01.011) [[预览]]() [[下载]]()  
  -->
 
 
