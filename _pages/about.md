@@ -67,9 +67,13 @@ redirect_from:
 
 ### 学术论文
 <!-- --- -->
-<div class='paper-box'><div class='paper-box-image'><div>
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
 <!-- <div class="badge">HPDC 2024</div> -->
-<!-- <img src='images/papers/hpdc2024.png' alt="sym" width="110%">--></div></div> 
+<!-- <img src='images/papers/hpdc2024.png' alt="sym" width="110%">-->
+</div>
+</div> 
 <div class='paper-box-text' markdown="1">
 
 -	`Zhangqiang Ming`, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "ADTopk: All-Dimension Top-k Compression for High-Performance Data-Parallel DNN Training." 2024. In Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing. (HPDC'24, Acceptance Rate=17.1%, 高性能顶会, CSRanking) [[网页]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
@@ -78,9 +82,13 @@ redirect_from:
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div>
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
 <!-- <div class="badge">HPDC 2025</div> -->
-<!-- <img src='images/papers/hpdc2024.png' alt="sym" width="110%">--></div></div> 
+<!-- <img src='images/papers/hpdc2024.png' alt="sym" width="110%">-->
+</div>
+</div> 
 <div class='paper-box-text' markdown="1">
 
 -	`Zhangqiang Ming`, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SAFusion: Efficient Tensor Fusion with Sparsification Ahead for High-Performance Distributed DNN Training." 2025. In Proceedings of the 34th ACM International Symposium on High-Performance Parallel and Distributed Computing. (HPDC'25, Acceptance Rate=18.7%, 高性能顶会, CSRanking) [[网页]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
@@ -147,7 +155,6 @@ redirect_from:
 
 -	`Zhangqiang Ming`, Min Zhu, Jianrong Yan, Yong Yang, and Jiamin Zhu. "A survey on generative adversarial network based person re-identification method." Journal of Computer-Aided Design & Computer Graphics 34, no. 2 (2022): 163-179. (JCR:Q4; IF:0.536) 
 [[网页]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[预览]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[下载]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852)
-
 </div>
 </div>
 
@@ -159,7 +166,6 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	`Zhangqiang Ming`, Yong Yang, Xiaoyong Wei, Jianrong Yan, Xiangkun Wang, Fengjie Wang, and Min Zhu. "Global-local dynamic feature alignment network for person re-identification." arXiv preprint arXiv:2109.05759 (2021). [[网页]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[预览]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852) [[下载]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2022.18852)
-
 </div>
 </div>
 
