@@ -54,7 +54,7 @@ redirect_from:
 - *2022.09 - 2026.06*, &nbsp;  <a href="https://www.hust.edu.cn/"><img class="svg" src="https://zhangqiangming.github.io/zqming-zh.github.io/images/HUST_logo.svg" width="23pt"></a>华中科技大学&nbsp; &nbsp;计算机科学与技术专业&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士研究生
 
 
-- *2019.09 - 2022.06*, &nbsp;  <a href="https://www.scu.edu.cn/"><img class="svg" src="https://zhangqiangming.github.io/zqming-zh.github.io/images/SCU_logo.svg" width="20pt"></a> 四川大学&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp;&nbsp;  计算机技术专业 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  硕士研究生
+- *2019.09 - 2022.06*, &nbsp;  <a href="https://www.scu.edu.cn/"><img class="svg" src="https://zhangqiangming.github.io/zqming-zh.github.io/images/SCU_logo.svg" width="20pt"></a> 四川大学&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp;&nbsp;  计算机技术专业 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 硕士研究生
 
 
 <!-- - *2014.09 - 2018.06*, &nbsp;  <a href="https://www.yangtzeu.edu.cn/"><img class="svg" src="https://zhangqiangming.github.io/zqming-zh.github.io/images/cjdx_logo.png" width="20pt"></a> 长江大学&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 计算机科学与技术学院 &nbsp; &nbsp;  计算机科学与技术专业 &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  本科生 -->
