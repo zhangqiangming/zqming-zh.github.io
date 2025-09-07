@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-#### 我将于2026年5月博士毕业于湖北武汉的华中科技大学, 计算机科学与技术学院, 信息存储及应用实验室, 冯丹教授团队。我的博士导师是胡燏翀教授, 专业为计算机体系结构。硕士毕业于四川成都的四川大学, 计算机学院, 专业为计算机技术。包括合著，我已经发表12+篇学术论文, 其中以第一作者发表论文6篇, 包括: ICDE2026, HPDC2025, HPDC2024, CAD`&`CG2021, ICV2022等.
+#### 我将于2026年5月博士毕业于湖北武汉的华中科技大学, 计算机科学与技术学院, 信息存储及应用实验室, 冯丹教授团队。我的博士导师是胡燏翀教授, 专业为计算机体系结构。硕士毕业于四川成都的四川大学, 计算机学院, 专业为计算机技术。包括合著，我已经发表12+篇学术论文, 其中以第一作者发表论文6篇, 包括: ICDE2026, HPDC2025, HPDC2024, CAD&amp;G2021, ICV2022等.
  <!-- <a href='https://scholar.google.com/citations?user=pGBngNMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a> -->
 
 
@@ -63,7 +63,7 @@ redirect_from:
 
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文`&`专利
+# 📝 论文&amp;专利
 
 ### 学术论文
 <!-- --- -->
@@ -194,7 +194,7 @@ redirect_from:
 <span class='anchor' id='-gzsx'></span>
 
 
-# 🏭 项目&实习
+# 🏭 项目&amp;实习
 
 ### 科研项目
 - 华中科技大学-新华三科技有限公司联合实验室, 智算中心存储建设项目 (2023.06 – 2027.06)
