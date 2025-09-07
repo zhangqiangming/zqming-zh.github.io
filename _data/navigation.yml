@@ -1,19 +1,19 @@
 # main links links
 main:
   - title: "个人简介"
-    url: "zqming-zh.github.io/#about-me"
+    url: "/#about-me"
 
   - title: "教育经历"
-    url: "zqming-zh.github.io/#-xl"
+    url: "/#-xl"
 
   - title: "论文专利"
-    url: "zqming-zh.github.io/#-lwzl"
+    url: "/#-lwzl"
 
   - title: "荣誉奖项"
-    url: "zqming-zh.github.io/#-ryjx"
+    url: "/#-ryjx"
 
   - title: "学术会议"
-    url: "zqming-zh.github.io/#-xshy"
+    url: "/#-xshy"
 
   - title: "工作实习"
-    url: "zqming-zh.github.io/#-gzsx"
+    url: "/#-gzsx"
