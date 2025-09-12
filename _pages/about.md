@@ -149,8 +149,6 @@ redirect_from:
 
 
 <span class='anchor' id='-ryjx'></span>
-
-
 # 🏅 荣誉奖项
 ### 奖学金
 - 2022-2023 学年华中科技大学研究生博士一等学业奖学金
