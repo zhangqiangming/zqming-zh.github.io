@@ -81,6 +81,8 @@ redirect_from:
 
 
 
+
+
 -	__<u>Zhangqiang Ming</u>__, Min Zhu, Xiangkun Wang, Jiamin Zhu, Junlong Cheng, Chengrui Gao, Yong Yang, and Xiaoyong Wei. "Deep learning-based person re-identification methods: A survey and outlook of recent works." Image and Vision Computing 119 (2022): 104394. (__ICV22__, CCF-C; IF:3.291) [[Preview]](https://zhangqiangming.github.io/papers/4_IVC2022_.pdf)[[Download]](https://zhangqiangming.github.io/papers/4_IVC2022_.pdf)
 
 
@@ -97,7 +99,7 @@ redirect_from:
 -	__<u>Zhangqiang Ming</u>__, Yuchong Hu, Patrick P. C. Lee, Yuanhao Shu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "Enabling Efficient All-Dimension Top-k Sparsification for High-Performance Distributed DNN Training Systems." Transactions on Architecture and Code Optimization (__Submitted__, TACO, CCF-A)
 
 
--	__<u>Zhangqiang Ming</u>__, Yuchong Hu, Patrick P. C. Lee, Yuanhao Shu, Xinjue Zheng, Wenxiang Zhou, and Dan Feng. "Enabling Efficient Tensor Fusion with Sparsification Ahead for High-Performance Distributed DNN Training Systems." Transactions on Parallel and Distributed Systems (__Submitted__,TPDS, CCF-A). 
+-	__<u>Zhangqiang Ming</u>__, Yuchong Hu, Patrick P. C. Lee, Yuanhao Shu, Xinjue Zheng, Wenxiang Zhou, and Dan Feng. "Enabling Efficient Tensor Fusion with Sparsification Ahead for High-Performance Distributed DNN Training Systems." Transactions on Parallel and Distributed Systems (__Submitted__, TPDS, CCF-A). 
 
 
 
@@ -105,22 +107,19 @@ redirect_from:
 
 
 
-- __<u>Zhangqiang Ming</u>__, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "Gradient Compression Techniques in Distributed DNNs Training Systems: A Survey and Outlooks." arXiv preprint arXiv:2310.14484 (2023).
-[[Code]](https://dx.doi.org/10.3390/ma15207362) [[Preview]](https://zhangqiangming.github.io/papers/8_Survey_.pdf)[[Download]](https://zhangqiangming.github.io/papers/8_Survey_.pdf)
+- __<u>Zhangqiang Ming</u>__, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "Gradient Compression Techniques in Distributed DNNs Training Systems: A Survey and Outlooks." arXiv preprint arXiv:2310.14484 (2023). [[Preview]](https://zhangqiangming.github.io/papers/8_Survey_.pdf)[[Download]](https://zhangqiangming.github.io/papers/8_Survey_.pdf)
 
 
 - Yong Yang, Chengrui Gao, __<u>Zhangqiang Ming</u>__, Jixiang Guo, Edou Leopold, Junlong Cheng, Jie Zuo, and Min Zhu. "LatLRR-CNN: An infrared and visible image fusion method combining latent low-rank representation and CNN." Multimedia Tools and Applications 82, no. 23 (2023): 36303-36323. (JCR:Q1; IF:3.748) [[Preview]](https://zhangqiangming.github.io/papers/9_LatLRR_.pdf)[[Download]](https://zhangqiangming.github.io/papers/9_LatLRR_.pdf)
 
 
 
-- Junlong Cheng, Chengrui Gao, Changlin Li, __<u>Zhangqiang Ming</u>__, Yong Yang, Fengjie Wang, and Min Zhu. "F2RNET: A Full-Resolution Representation Network for Biomedical Image Segmentation." In 2022 IEEE International Conference on Image Processing (ICIP), pp. 2406-2410. IEEE, 2022.
-[[Code]](https://dx.doi.org/10.3390/app12199703) [[Preview]](https://zhangqiangming.github.io/papers/10_F2RNET_.pdf)[[Download]](https://zhangqiangming.github.io/papers/10_F2RNET_.pdf)
+- Junlong Cheng, Chengrui Gao, Changlin Li, __<u>Zhangqiang Ming</u>__, Yong Yang, Fengjie Wang, and Min Zhu. "F2RNET: A Full-Resolution Representation Network for Biomedical Image Segmentation." In 2022 IEEE International Conference on Image Processing (ICIP), pp. 2406-2410. IEEE, 2022. [[Preview]](https://zhangqiangming.github.io/papers/10_F2RNET_.pdf)[[Download]](https://zhangqiangming.github.io/papers/10_F2RNET_.pdf)
 
 
 
 <!-- __<u>Zhangqiang Ming</u>__ -->
-- Cheng, Junlong, Chengrui Gao, Hongchun Lu, __<u>Zhangqiang Ming</u>__, Yong Yang, and Min Zhu. "PL-Net: progressive learning network for medical image segmentation[J]." Frontiers in Bioengineering and Biotechnology, 2024, 12: 1414605. (2024).
-[[Code]](https://dx.doi.org/10.3390/w14172736)  [[Preview]](https://zhangqiangming.github.io/papers/11_PL-Net_.pdf)[[Download]](https://zhangqiangming.github.io/papers/11_PL-Net_.pdf)
+- Cheng, Junlong, Chengrui Gao, Hongchun Lu, __<u>Zhangqiang Ming</u>__, Yong Yang, and Min Zhu. "PL-Net: progressive learning network for medical image segmentation[J]." Frontiers in Bioengineering and Biotechnology, 2024, 12: 1414605. (2024). [[Preview]](https://zhangqiangming.github.io/papers/11_PL-Net_.pdf)[[Download]](https://zhangqiangming.github.io/papers/11_PL-Net_.pdf)
 
 
 
