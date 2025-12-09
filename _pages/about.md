@@ -81,8 +81,6 @@ redirect_from:
 
 
 
-
-
 -	__<u>Zhangqiang Ming</u>__, Min Zhu, Xiangkun Wang, Jiamin Zhu, Junlong Cheng, Chengrui Gao, Yong Yang, and Xiaoyong Wei. "Deep learning-based person re-identification methods: A survey and outlook of recent works." Image and Vision Computing 119 (2022): 104394. (__ICV22__, CCF-C; IF:3.291) [[Preview]](https://zhangqiangming.github.io/papers/4_IVC2022_.pdf)[[Download]](https://zhangqiangming.github.io/papers/4_IVC2022_.pdf)
 
 
@@ -126,7 +124,6 @@ redirect_from:
 <!-- 
 ### 中文
 ---
-
 - __<u>明章强</u>__，王荣彪，康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67. (核心期刊)  
 [[Code]](https://dx.doi.org/10.11973/wsjc202204000) [[预览]]() [[下载]]()  
 
@@ -143,6 +140,7 @@ redirect_from:
 - 胡燏翀, __<u>明章强</u>__, 周文翔, 郑欣觉, 罗致远, 冯丹.&nbsp;&nbsp;一种面向高性能数据并行DNN训练的全维度Top-k稀疏化压缩方法和系统, 2024, 202411182560.3. [[实审]]() 
 - 胡燏翀, __<u>明章强</u>__, 王锐, 郑欣觉, 周文翔, 冯丹.&nbsp;&nbsp;面向高性能分布式DNN训练的高效稀疏提前张量融合方法及装置, 2025, 202510575871.4. [[实审]]() 
 - 胡燏翀, __<u>明章强</u>__, 周文翔, 郑欣觉, 王锐, 冯丹.&nbsp;&nbsp;一种用于提升分布式训练系统中稀疏通信的弹性梯度合并方法和系统, 2025, 202510575871.4. [[实审]]() 
+- 胡燏翀, __<u>明章强</u>__, 舒元昊, 周文翔, 郑欣觉, 冯丹.&nbsp;&nbsp;面向高性能分布式训练的选择性稀疏化张量融合方法, 2025, 202512675822.4. [[实审]]() 
 - 胡燏翀, 郑欣觉, __<u>明章强</u>__, 周文翔, 王锐, 冯丹.&nbsp;&nbsp;一种面向分布式训练的残差显存优化方法, 2025, CN20250503. [[实审]]() 
 - 朱敏, __<u>明章强</u>__, 魏骁勇, 李龙兴, 杨勇, 李长林.&nbsp;&nbsp;一种基于全局-局部特征动态对齐的行人重识别方法, 2022, CN113408492B. [[授权]]() 
 - 朱敏, __<u>明章强</u>__, 闫建荣, 张万利, 赵志龙.&nbsp;&nbsp;一种基于深度学习的多因素用电负荷预测方法, 2023, CN113962364B. [[授权]]()
