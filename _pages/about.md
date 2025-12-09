@@ -19,7 +19,8 @@ redirect_from:
 
 # 👨‍🎓 个人简介
 
-#### 我将于2026年5月博士毕业于湖北武汉的华中科技大学, 计算机科学与技术学院, 信息存储及应用实验室, [冯丹]()教授团队。我的博士导师是[胡燏翀]()教授, 专业为计算机体系结构。我于2022年硕士毕业于四川成都的四川大学, 计算机学院, 专业为计算机技术。包括合著，我已经发表12+篇学术论文, 其中以第一作者或通讯作者发表论文6篇, 包括: ICDE2026, HPDC2025, HPDC2024, CADCG2021, ICV2022等.
+#### 我将于2026年5月在华中科技大学计算机科学与技术学院获得博士学位，隶属于[冯丹]()教授领导的信息存储及应用实验室，博士导师为[胡燏翀]()教授，研究方向为计算机体系结构。我于 2022年在四川大学计算机学院获得硕士学位，专业为计算机技术。截至目前，我已发表12篇以上学术论文，其中以第一作者或通讯作者发表6篇，代表性成果包括: ICDE2026、HPDC2025、HPDC2024、CADCG2021、ICV2022等。
+
  <!-- <a href='https://scholar.google.com/citations?user=pGBngNMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a> -->
 
 
@@ -73,7 +74,9 @@ redirect_from:
 -	__<u>Zhangqiang Ming</u>__, Rui, Wang, Yuchong Hu, Yuanhao Shu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SSFusion: Tensor Fusion with Selective Sparsification for Efficient Distributed DNN Training." 2026. In Proceedings of the 42st IEEE International Conference on Data Engineering (__ICDE'26__, CCF-A, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
 
 
+
 -	__<u>Zhangqiang Ming</u>__, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SAFusion: Efficient Tensor Fusion with Sparsification Ahead for High-Performance Distributed DNN Training." 2025. In Proceedings of the 34th ACM International Symposium on High-Performance Parallel and Distributed Computing. (__HPDC'25__, Acceptance Rate=18.7%, 高性能顶会, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
+
 
 
 -	__<u>Zhangqiang Ming</u>__, Yuchong Hu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "ADTopk: All-Dimension Top-k Compression for High-Performance Data-Parallel DNN Training." 2024. In Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing. (__HPDC'24__, Acceptance Rate=17.1%, 高性能顶会, CSRanking) [[Code]](https://dl.acm.org/doi/abs/10.1145/3625549.3658678) [[预览]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678) [[下载]](https://dl.acm.org/doi/pdf/10.1145/3625549.3658678)
@@ -115,6 +118,7 @@ Transactions on Parallel and Distributed Systems (__Submitted__,TPDS, CCF-A).
 
 
 - Yong Yang, Chengrui Gao, __<u>Zhangqiang Ming</u>__, Jixiang Guo, Edou Leopold, Junlong Cheng, Jie Zuo, and Min Zhu. "LatLRR-CNN: An infrared and visible image fusion method combining latent low-rank representation and CNN." Multimedia Tools and Applications 82, no. 23 (2023): 36303-36323. (JCR:Q1; IF:3.748) [[Code]](https://dx.doi.org/10.3390/ma15207362) [[预览]]() [[下载]]()
+
 
 
 - Junlong Cheng,  Chengrui Gao, Changlin Li, __<u>Zhangqiang Ming</u>__, Yong Yang, Fengjie Wang, and Min Zhu. "F2RNET: A Full-Resolution Representation Network for Biomedical Image Segmentation." In 2022 IEEE International Conference on Image Processing (ICIP), pp. 2406-2410. IEEE, 2022.
