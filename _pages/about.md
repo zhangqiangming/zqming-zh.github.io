@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨‍🎓 个人简介
 
-#### 我将于2026年5月在华中科技大学计算机科学与技术学院获得博士学位，隶属于[冯丹]()教授领导的信息存储及应用实验室，博士导师为[胡燏翀]()教授，研究方向为计算机体系结构。我于 2022年在四川大学计算机学院获得硕士学位，专业为计算机技术。截至目前，我已发表12篇以上学术论文，其中以第一作者或通讯作者发表6篇，代表性成果包括: ICDE2026、HPDC2025、HPDC2024、CADCG2021、ICV2022等。
+#### 我将于2026年5月在华中科技大学计算机科学与技术学院获得博士学位，隶属于[冯丹]()教授领导的信息存储及应用实验室，博士导师为[胡燏翀]()教授，研究方向为计算机体系结构。我于2022年在四川大学计算机学院获得硕士学位，专业为计算机技术。截至目前，我已发表13篇以上学术论文，其中以第一作者或通讯作者发表7篇，代表性成果包括: ICDE2026、DAC2026、HPDC2025、HPDC2024、CADCG2021、ICV2022等。
 
  <!-- <a href='https://scholar.google.com/citations?user=pGBngNMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a> -->
 
@@ -70,6 +70,9 @@ redirect_from:
 
 ### 学术论文
 <!-- --- -->
+
+-	__<u>Zhangqiang Ming</u>__, Yuchong Hu, Zhiyuan Luo, Patrick P. C. Lee, Yuanhao Shu, Xinjue Zheng, Wenxiang Zhou, and Dan Feng. AsymCheck: Asymmetric Partitioned Checkpointing for Efficient Large Language Model Training. In Proceedings of the 63dr Design Automation Conference (__DAC'26__, CCF-A, CSRanking) [[Code]](https://github.com/zqming-cs) [[Preview]](https://zhangqiangming.github.io/papers/12_DAC2026.pdf)[[Download]](https://zhangqiangming.github.io/papers/12_DAC2026.pdf)
+
 
 -	__<u>Zhangqiang Ming</u>__, Rui, Wang, Yuchong Hu, Yuanhao Shu, Wenxiang Zhou, Xinjue Zheng, and Dan Feng. "SSFusion: Tensor Fusion with Selective Sparsification for Efficient Distributed DNN Training." 2026. In Proceedings of the 42st IEEE International Conference on Data Engineering (__ICDE'26__, CCF-A, CSRanking) [[Code]](https://github.com/zqming-cs) [[Preview]](https://zhangqiangming.github.io/papers/1_ICDE2026_.pdf)[[Download]](https://zhangqiangming.github.io/papers/1_ICDE2026_.pdf)
 
@@ -212,6 +215,7 @@ redirect_from:
 - 2025.05 - 2026.02,  中电海康集团,  智能算法研究院,    浙江杭州
 - 2021.06 - 2021.09,  海康威视研究院, 智能算法应用部,   四川成都
 - 2017.06 - 2018.01,  武汉天喻软件有限公司, 产品开发部, 湖北武汉
+
 
 
 
