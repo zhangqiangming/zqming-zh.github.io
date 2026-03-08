@@ -61,7 +61,7 @@ redirect_from:
 
 
 <!-- <a href="https://www.yangtzeu.edu.cn/"><img class="svg" src="https://zhangqiangming.github.io/zqming-zh.github.io/images/cjdx_logo.png" width="20pt"></a> -->
-- *2014.09 - 2018.06*, &nbsp; &nbsp;  长江大学&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp;&nbsp;  计算机科学与技术专业 &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  本科生
+- *2014.09 - 2018.06*, &nbsp; &nbsp;  长江大学&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    计算机科学与技术专业 &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  本科生
 
 
 <span class='anchor' id='-lwzl'></span>
@@ -215,6 +215,7 @@ redirect_from:
 - 2025.05 - 2026.02,  中电海康集团,  智能算法研究院,    浙江杭州
 - 2021.06 - 2021.09,  海康威视研究院, 智能算法应用部,   四川成都
 - 2017.06 - 2018.01,  武汉天喻软件有限公司, 产品开发部, 湖北武汉
+
 
 
 
